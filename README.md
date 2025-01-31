@@ -73,12 +73,3 @@ The action has the following steps:
 7. Use the Shopify CLI to create the preview and save the returned preview link in an output object (optional path via `dir`-input)
 8. Update the table to display the preview links
 9. If any of the previous steps fail, create a comment on the pull request with an error message
-
----
-<div style="display: inline">
-  <img width="280" alt="wort-bild-primary@2x" src="https://user-images.githubusercontent.com/77160493/206194969-10dc2ed8-476d-4639-865e-75c9028109a4.png">
-  <div>
-    <b>Brand Boosting GmbH</b> |
-    <b>David Süßlin</b>
-  </div>
-</div>
